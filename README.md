@@ -41,17 +41,6 @@ Inlet Velocity: 10.45 m/s
 Injection Location: Near leading edge (x/c ≈ 0.04)
 Mesh: ~500,000 cells with local refinement
 
- Cases Studied:
-Seven cases were analyzed with different air injection rates:
-
-Case	Injection Rate (L/min)
-1	    0.0 (Baseline)
-2	    0.1
-3	    0.2
-4	    0.3
-5	    0.4
-6	    0.5
-7	    0.6
 Key Results
 -Pressure Fluctuations
    Moderate injection rates (0.2 – 0.4 L/min) reduce pressure fluctuations
